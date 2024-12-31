@@ -6,7 +6,7 @@ This repository demonstrates how to set up and use MinIO Server for local develo
 
 MinIO is a high-performance, S3-compatible object storage system. This project showcases its seamless integration into development workflows, making it an excellent alternative to AWS S3 for testing and local development.
 
-- **Detailed Article**: [MinIO Server for Local Development on Dev.to](https://dev.to/thenelson_o/advanced-csrf-protection-with-rsa-1loi)
+- **Detailed Article**: [MinIO Server for Local Development on Dev.to](https://dev.to/thenelson_o/using-minio-server-for-local-development-a-smarter-alternative-to-s3-1f51)
 
 Explore this repository to:
 
